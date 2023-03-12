@@ -1,4 +1,7 @@
 # CareBuddy
+
+![giphy](https://user-images.githubusercontent.com/114849354/224548690-aa2d79f9-bc72-48c8-8b49-8e7207f8e558.gif)
+
 Care-Buddy is a Web based application used for healthcare that is a three-in-one medical prediction System 
 (Covid-19, pneumonia and Alzheimer). We know the future is all about AI so here is Our idea of bringing 3 
 disease detections under one platform using the power of AI. Although these results are perfect yet an 
