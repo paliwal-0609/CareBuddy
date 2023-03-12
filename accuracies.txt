@@ -1,0 +1,3 @@
+pneumonia 83.17% (CNN)
+alzheimer: 73.54% (CNN)
+covid: 93% (CNN)
